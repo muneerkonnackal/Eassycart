@@ -22,7 +22,7 @@ function Home() {
             <div className="d-flex gap-2">
               {homeCatagory?.length > 0
                 ? homeCatagory.map((item) => (
-                    <div className="ms-5" style={{ width: "500px" }}>
+                    <div className="ms-2" style={{ width: "200px" }}>
                       <Card
                         className="rounded-4"
                         style={{

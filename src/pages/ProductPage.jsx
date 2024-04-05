@@ -82,7 +82,7 @@ function ProductPage() {
             </Button>
           </div>
           <div>
-            <Link to={"/"}>
+           
               {" "}
               <Button
                 onClick={backToHomeAlert}
@@ -92,7 +92,7 @@ function ProductPage() {
                 {" "}
                 Back to <i class="fa-solid fa-house"></i>
               </Button>
-            </Link>
+           
           </div>
         </div>
       </div>
